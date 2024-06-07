@@ -2,3 +2,8 @@ h2{
     text-align: center;
     color: rgb(184, 255, 71);
 }
+.box_model{
+    background-color: hotpink;
+    margin: 100px;
+       
+}
