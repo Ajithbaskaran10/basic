@@ -6,4 +6,19 @@ h3{
 img{
     width: 400px;
     height: 400px;
+    display: block;
+    margin-left: 100px;
+}
+.data-cleaning{
+    margin: 20px;
+    color: rgb(126, 163, 38);
+}
+a{
+    text-decoration: none;
+}
+.cleaning{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
 }
