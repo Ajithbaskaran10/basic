@@ -22,3 +22,169 @@ a{
     font-family:'Times New Roman', Times, serif;
     padding: 10px;
 }
+.data_cleaning{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: 100px;
+}
+.matlab{
+    margin: 20px;
+    color: rgb(126, 163, 38);   
+}
+.matlab1{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;   
+}
+.matlab2{
+    width: 300px;
+    height: 180px;
+    display: block;
+    margin-left: 200px;   
+}
+.rprogramming{
+    margin: 20px;
+    color: rgb(126, 163, 38);   
+}
+.rpro{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;  
+}
+.rprogramm{
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin-left: 200px; 
+}
+.python{
+    margin: 20px;
+    color: rgb(126, 163, 38);   
+}
+.pythonpro{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.pythonfew{
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin-left: 210px; 
+}
+.sql{
+    margin: 20px;
+    color: rgb(126, 163, 38);    
+}
+.nosql{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.sqlnosql{
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin-left: 200px;
+}
+.machine{
+    margin: 20px;
+    color: rgb(126, 163, 38);   
+}
+.learning{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.process{
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin-left: 200px;
+}
+.linear{
+    margin: 20px;
+    color: rgb(126, 163, 38);
+}
+.algebra{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.calculs{
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin-left: 200px;
+}
+.excel{
+    margin: 20px;
+    color: rgb(126, 163, 38);
+}
+.micro{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.benifit{
+    width: 600px;
+    height: 500px;
+    display: block;
+    margin-left: 200px;
+}
+.thinking{
+    margin: 20px;
+    color: rgb(126, 163, 38);
+}
+.critical{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.think{
+    width: 600px;
+    height: 600px;
+    display: block;
+    margin-left: 200px;   
+}
+.cation{
+    margin: 20px;
+    color: rgb(126, 163, 38);
+}
+.communi{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.proces{
+    width: 600px;
+    height: 600px;
+    display: block;
+    margin-left: 200px;  
+}
+.visual{
+    margin: 20px;
+    color: rgb(126, 163, 38);
+}
+.lazation{
+    margin-top:10px;
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.data{
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin-left: 200px; 
+}
