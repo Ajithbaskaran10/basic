@@ -13,3 +13,9 @@ h2{
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
 }
+.second-box{
+    background-color: violet;
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+}
